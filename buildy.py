@@ -1,5 +1,8 @@
 #!/bin/env python
-
+'''
+Copyright (2012) Martin Samson
+License: LGPL
+'''
 import rpm
 import os, subprocess, urllib, getpass
 from argparse import ArgumentParser
